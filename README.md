@@ -1,0 +1,113 @@
+[新建文本文档 (2).html](https://github.com/user-attachments/files/32429512/2.html)
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>登记证信息</title>
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <link rel="stylesheet" href="/TopFDOAS/common/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="/TopFDOAS/common/css/home.css?v=1">
+    <script type="text/javascript" src="/TopFDOAS/common/js/jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="/TopFDOAS/common/pagination/myPagination/page.css?t=0">
+    <script type="text/javascript" src="/TopFDOAS/common/pagination/myPagination/jquery.myPagination6.0.js?t=1"></script>
+    <script src="/TopFDOAS/common/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var screenWidth = screen.availWidth+"*"+screen.availHeight;
+        var screenHeight = screen.availWidth+"*"+screen.availHeight;
+        $("#licBody").css("width",screenWidth);
+        $("#licBody").css("height",screenHeight);
+    </script>
+    <style type="text/css">
+        #licTable{
+            margin: 15px;
+            width: 96.5%;
+            border-right-width: 3px;
+            border-bottom-width: 4px;
+            border-right-style: inset;
+            border-bottom-style: inset;
+            border-right-color: #E4E4E4;
+            border-bottom-color: #BBBBBB;
+            border-top-width: 1px;
+            border-left-width: 1px;
+            border-top-style: solid;
+            border-left-style: solid;
+            border-top-color: #B7C9E2;
+            border-left-color: #B7C9E2;
+        }
+        .table-form td.lic-title{
+            font-size: 3.0em;
+            color: blue;
+            text-align: left;
+            text-indent: 20px;
+            background: #a7e6e1;
+            height: 2.5em;
+        }
+        .table-form td.tdleft{
+            width: 34%;
+            text-align: right;
+            padding-right: 10px;
+            background-color: #f7f7f7;
+            font-size: 2.0em;
+            height: 2.5em;
+            font-family: 微软雅黑;
+        }
+        .table-form td.tdright{
+            width: 79%;
+            font-family: 微 软 雅 黑;
+            font-size: 1.8em;
+            border-bottom: 1px solid #cccccc;
+            background-color: #FFFFFF;
+            text-align: left; /* line-height: 36px; */
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+<div id="licBody">
+    <table class="table-form" id="licTable" style="width:99%;height:99%;">
+            <tbody><tr>
+                <td colspan="4" class="lic-title">登记证信息</td>
+            </tr>
+            <tr>
+                <td class="tdleft">字号名称</td>
+                <td class="tdright" colspan="3">柳州市鱼峰区三食六记餐饮店（个体工商户）</td>
+            </tr>
+            <tr>
+                <td class="tdleft">登记证号</td>
+                <td class="tdright" colspan="3">GXCY0203002499</td>
+            </tr>
+            <tr>
+                <td class="tdleft">统一社会信用代码（营业执照号）</td>
+                <td class="tdright" colspan="3">92450203MAKBQKD29M</td>
+            </tr>
+            <tr>
+                <td class="tdleft">投诉举报电话</td>
+                <td class="tdright" colspan="3">12315</td>
+            </tr>
+            <tr>
+                <td class="tdleft">法定代表人（负责人）</td>
+                <td class="tdright" colspan="3">彭艳义</td>
+            </tr>
+            <tr>
+                <td class="tdleft">发证机关</td>
+                <td class="tdright" colspan="3">柳州市鱼峰区市场监督管理局</td>
+            </tr>
+            <tr>
+                <td class="tdleft">经营地址</td>
+                <td class="tdright" colspan="3">柳州市鱼峰区官塘大道科大便民疏导点A-18</td>
+            </tr>
+            <tr>
+                <td class="tdleft">业态类别</td>
+                <td class="tdright" colspan="3">小餐馆</td>
+            </tr>
+            <tr>
+                <td class="tdleft">有效期至</td>
+                <td class="tdright" colspan="3">2029年09月15日</td>
+            </tr>
+            <tr>
+                <td class="tdleft">发证日期</td>
+                <td class="tdright" colspan="3">2026年09月16日</td>
+            </tr>
+    </tbody></table>
+</div>
+
+</body></html>
